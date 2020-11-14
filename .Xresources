@@ -1,0 +1,40 @@
+! Created with help of https://addy-dclxvi.github.io/post/configuring-urxvt/
+! Theme created with https://terminal.sexy/
+!
+! special
+*.foreground:   #e0e0e0
+*.background:   #212121
+*.cursorColor:  #e0e0e0
+
+! black
+*.color0:       #212121
+*.color8:       #424242
+
+! red
+*.color1:       #c62828
+*.color9:       #e57373
+
+! green
+*.color2:       #2e7d32
+*.color10:      #81c784
+
+! yellow
+*.color3:       #f9a825
+*.color11:      #fff176
+
+! blue
+*.color4:       #0277bd
+*.color12:      #4fc3f7
+
+! magenta
+*.color5:       #4527a0
+*.color13:      #9575cd
+
+! cyan
+*.color6:       #00695c
+*.color14:      #4db6ac
+
+! white
+*.color7:       #424242
+*.color15:      #e0e0e0
+
