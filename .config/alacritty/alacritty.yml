@@ -1,0 +1,61 @@
+font:
+  normal:
+    family: "MesloLGS NF"
+    style: Regular
+  bold:
+    family: "MesloLGS NF"
+    style: Bold
+  italic:
+    family: "MesloLGS NF"
+    style: Italic
+  bold_italic:
+    family: "MesloLGS NF"
+    style: Bold Italic
+  size: 11
+
+# From: https://github.com/eendroroy/alacritty-theme/blob/master/themes/base16_default_dark.yaml
+# Colors (Base16 Default Dark)
+colors:
+  # Default colors
+  primary:
+    background: '0x181818'
+    foreground: '0xd8d8d8'
+
+  # Colors the cursor will use if `custom_cursor_colors` is true
+  cursor:
+    text: '0xd8d8d8'
+    cursor: '0xd8d8d8'
+
+  # Normal colors
+  normal:
+    black:   '0x181818'
+    red:     '0xab4642'
+    green:   '0xa1b56c'
+    yellow:  '0xf7ca88'
+    blue:    '0x7cafc2'
+    magenta: '0xba8baf'
+    cyan:    '0x86c1b9'
+    white:   '0xd8d8d8'
+
+  # Bright colors
+  bright:
+    black:   '0x585858'
+    red:     '0xab4642'
+    green:   '0xa1b56c'
+    yellow:  '0xf7ca88'
+    blue:    '0x7cafc2'
+    magenta: '0xba8baf'
+    cyan:    '0x86c1b9'
+    white:   '0xf8f8f8'
+
+window:
+  opacity: 0.6
+  padding:
+    x: 0
+    y: 0
+  dynamic_padding: true
+# Found on Tweakers: https://gathering.tweakers.net/forum/list_messages/2061816
+shell:
+  program: /bin/zsh
+  args:
+    -  --login

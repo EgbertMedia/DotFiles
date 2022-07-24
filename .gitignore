@@ -1,0 +1,16 @@
+*
+!README.md
+!.gitignore
+
+!.config/i3
+!.config/i3/*
+
+!.p10k.zsh
+!.zshrc
+
+!.config
+
+!.config/alacritty
+!.config/alacritty/alacritty.yml
+
+!.config/compton.conf
